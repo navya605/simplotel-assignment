@@ -65,6 +65,9 @@ body {
 
 .call-icon {
   margin-right: 15px;
+  border: 2px solid #1e3050;
+  border-radius: 50%;
+  padding: 10px;
 }
 
 .nav-sub-section {
@@ -110,6 +113,7 @@ body {
   border-radius: 20px;
   font-family: 'Roboto';
   font-weight: bold;
+  opacity: 0.8;
 }
 
 .card-image {
